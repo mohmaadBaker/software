@@ -1,0 +1,37 @@
+section {
+float: left;
+margin-left: 0;
+width: 10%;
+background-color: orange;
+height:55rem;
+padding:1%;
+border-radius: 20px;
+}
+img{
+background:orange;
+width: 200px;
+}
+.menu{
+  margin-top: 7rem;
+  }
+  .item{
+    background-color: transparent;
+    margin-left: 10rem
+  }
+body{
+    background-color: antiquewhite;
+    display: flex;
+}
+footer{
+  justify-content: center;
+  position:absolute;
+  top: 54rem;
+  left: 64rem;
+}
+button{
+  background-color: orange;
+  padding: 14px 28px;
+  font-size: 24px;
+  border-radius: 20px;
+  border: none;
+}
